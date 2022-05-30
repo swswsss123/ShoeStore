@@ -25,7 +25,7 @@ class MainViewModel : ViewModel() {
                 Shoe(
                     name = "Name$i",
                     company = "Company$i",
-                    size = i.toDouble(),
+
                     description = "Description$i"
                 )
             )
